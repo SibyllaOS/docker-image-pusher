@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk-jammy
+maven:3.8-openjdk-17
