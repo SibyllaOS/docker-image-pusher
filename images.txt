@@ -1,1 +1,1 @@
-python:3.11-slim
+maven:3.8-openjdk-17
